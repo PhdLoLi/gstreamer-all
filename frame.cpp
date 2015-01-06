@@ -101,7 +101,7 @@ main (gint argc, gchar * argv[])
   const GstStructure * info;
   GstSegment *segment;
   GstMapInfo map;
-  std::string filename = "/Users/Loli/video/duoyan.mp4";
+  std::string filename = "/Users/Lijing/Movies/duoyan.mp4";
 
   gst_init (NULL, NULL);
 

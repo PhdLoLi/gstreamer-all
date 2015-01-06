@@ -117,7 +117,7 @@ char *argv[])
   /* Check input arguments */ 
   std::string filename;
   if (argc != 2) { 
-    filename = "/Users/Loli/video/duoyan.mp4";
+    filename = "/Users/Lijing/Movies/duoyan.mp4";
   }else
     filename = argv[1];
   /* Create gstreamer elements */ 
